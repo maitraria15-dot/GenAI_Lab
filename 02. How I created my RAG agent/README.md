@@ -34,4 +34,5 @@ touch src/enterprise_rag/tools/__init__.py
 touch tests/__init__.py
 ```
 
-ji
+## 3. Why __init__.py Is Needed
+
