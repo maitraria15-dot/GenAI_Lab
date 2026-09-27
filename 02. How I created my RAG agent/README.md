@@ -32,6 +32,6 @@ touch src/enterprise_rag/core/__init__.py
 touch src/enterprise_rag/db/__init__.py
 touch src/enterprise_rag/tools/__init__.py
 touch tests/__init__.py
-```bash
+```
 
-** ## 3. Why **
+ji
