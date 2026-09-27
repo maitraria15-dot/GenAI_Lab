@@ -7,5 +7,4 @@ touch src/enterprise_rag/core/__init__.py<br>
 touch src/enterprise_rag/db/__init__.py<br>
 touch src/enterprise_rag/tools/__init__.py<br>
 
-# 3. Clean up root directory files (delete or move rag_assistant.py into src)
-rm rag_assistant.py rag_assistant.ipynb
+
